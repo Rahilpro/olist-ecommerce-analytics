@@ -36,3 +36,20 @@ and which sellers should be flagged for intervention?"
 | Key Insights | 4 findings with recommendations |
 
 ## Project Structure
+
+olist-ecommerce-analytics/
+├── notebooks/
+│ ├── analysis.ipynb # Phase 2: Data cleaning & EDA
+│ └── deep_analysis.ipynb # Phase 4: Deep analysis & charts
+├── sql_results/ # 9 SQL query outputs
+├── cleaned/ # 6 processed datasets
+├── charts/ # 5 matplotlib visualisations
+├── olist_dashboard.pbix # Power BI dashboard file
+└── README.md
+
+
+## Dataset
+Olist Brazilian E-Commerce Dataset — Kaggle
+9 relational tables · 100,000 orders · 2016–2018
+
+Click Commit changes.
