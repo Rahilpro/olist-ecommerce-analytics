@@ -27,13 +27,13 @@
 
 ## Dashboard Preview
 
-![Monthly Revenue Trend](charts/fig1_monthly_trend.png)
+![Monthly Revenue Trend](Charts/fig1_monthly_trend.png)
 
-![Delivery Delay vs Review Score](charts/fig2_delay_vs_review.png)
+![Delivery Delay vs Review Score](Charts/fig2_delay_vs_review.png)
 
-![RFM Customer Segments](charts/fig4_rfm_segments.png)
+![RFM Customer Segments](Charts/fig4_rfm_segments.png)
 
-![Seller Scorecard](charts/fig5_seller_scorecard.png)
+![Seller Scorecard](Charts/fig5_seller_scorecard.png)
 
 ---
 
